@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\smachado\\Source\\Repos\\TutorialMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\smachado\\source\\repos\\TutorialMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\smachado\\Source\\Repos\\TutorialMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\smachado\\source\\repos\\TutorialMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\smachado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smachado\\Source\\Repos\\TutorialMVC\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\smachado\\source\\repos\\TutorialMVC\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
